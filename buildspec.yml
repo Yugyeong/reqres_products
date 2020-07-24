@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "271153858532.dkr.ecr.ap-southeast-1.amazonaws.com/admin20-products"
+    IMAGE_REPO_NAME: "admin20-products"
 
 phases:
   install:
